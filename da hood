@@ -1,0 +1,33 @@
+  [+]!rejoin
+        [+]!afk -- anti afk kick
+        [+]!dp -- Shows Display Names and Real Names
+        [+]!lowgfx -- Lower GFX = More FPS
+        [+]!sv -- (Tells you when server is about to crash or is loosing conection)
+        [+]!!fly (Be careful this can ban you on games with antifly)")
+        [+]!noclip (Be careful with this on games with Anti-Noclip, toggle noclip with Z)
+        [+]!clicktp (Becareful this can ban you on games with Anti-Tp)
+        [+]!goto [player] (Tp's you to the selected player)
+        [+]!crash (For DAHOOD ONLY)
+        [+]!autodrop (For DAHOOD ONLY) This autodrops dahood cash [ Yes it can be toggle :) ]
+        [+]!cashaura (For DAHOOD ONLY) This autograbs dahood cash [ Yes it can be toggle :) ]
+        [+]!uncashaura (For DAHOOD ONLY) This DISABLES !cashaura
+        [+]!unjail (For DAHOOD ONLY) 
+       
+     [+]!bank (Bank Outside)
+        [+]!hospital
+        [+]!gym
+        [+]!guns1 (Gunshop Up)
+        [+]!guns2 (Gunshop Down)
+        [+]!taco (Inside Taco)
+        [+]!police (Inside Police Base)
+        [+]!jail (Inside Jail)
+        [+]!casino (To casino)
+        [+]!ufo (To the Alien UFO)
+        [+]!gas (To Gas Station)
+        [+]!church (Out of Church)
+        [+]!park (Takes to tha playground park)
+        [+]!box (Takes you outside Boxing Place)
+        [+]!hg (To HighSchool)
+        [+]!canal (Tp to the new Canal)
+        [+]!ab (Tp to Admin-Base
+        [+]!bar (To the bar)
